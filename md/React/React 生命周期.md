@@ -1,12 +1,12 @@
-#React 生命周期
+# React 生命周期
 
 ![](../../images/react16.0shengmingzhouqi.png)
 
-##1、组件初始化
+## 1、组件初始化
 
 就是 执行 constructor(),  super(props) 用来调用基类的构造方法constructor()
 
-##2、组件挂载 Mounting
+## 2、组件挂载 Mounting
 
 此阶段分为componentWillMount，render，componentDidMount三个时期。
 
